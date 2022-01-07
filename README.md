@@ -13,3 +13,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=fernal73)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
