@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with finding a remote job while living in Mumbai
+- 🤔 I’m looking for help with finding a job (WFO/WFH) while living in Mumbai
 - 💬 Ask me about ...
 - 📫 How to reach me: Linus dot Fernandes at gmail dot com
 - 😄 Pronouns: He/Him
