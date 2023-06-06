@@ -12,8 +12,8 @@
 - 🎆 Projects contributed to: PMD,Checkstyle (issues)
 
 
-![](https://komarev.com/ghpvc/?username=fernal73)
+![](https://komarev.com/ghpvc/?username=linusjf)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Linus' GitHub stats](https://github-readme-stats.vercel.app/api?username=fernal73)](https://github.com/anuraghazra/github-readme-stats)
+[![Linus' GitHub stats](https://github-readme-stats.vercel.app/api?username=linusjf)](https://github.com/anuraghazra/github-readme-stats)
