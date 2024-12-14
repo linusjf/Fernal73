@@ -17,3 +17,5 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Linus' GitHub stats](https://github-readme-stats.vercel.app/api?username=linusjf)](https://github.com/anuraghazra/github-readme-stats)
+
+If you like any of my projects and find them useful or beneficial to your professional development, you can buy me a coffee at <https://ko-fi.com/linusjf>.
