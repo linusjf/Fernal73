@@ -10,6 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 - 🎆 Projects contributed to: PMD,Checkstyle (issues)
+- If you like any of my projects and find them useful or beneficial to your professional development, you can buy me a coffee at <https://ko-fi.com/linusjf>.
 
 
 ![](https://komarev.com/ghpvc/?username=linusjf)
@@ -18,4 +19,3 @@
 
 [![Linus' GitHub stats](https://github-readme-stats.vercel.app/api?username=linusjf)](https://github.com/anuraghazra/github-readme-stats)
 
-If you like any of my projects and find them useful or beneficial to your professional development, you can buy me a coffee at <https://ko-fi.com/linusjf>.
